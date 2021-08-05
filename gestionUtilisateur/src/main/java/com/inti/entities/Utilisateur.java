@@ -5,6 +5,7 @@ public class Utilisateur {
 	private int age;
 	private String nom;
 	private String prenom;
+	private String ville;
 	public Utilisateur() {
 		super();
 	}
